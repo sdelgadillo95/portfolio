@@ -1,0 +1,7 @@
+.cell {border:1px solid red; background-color: hsla(290, 100%, 50%, 0.1);}
+
+.grid-container {border: 1px;}
+img {
+  width: 100% auto;
+}
+header,footer {background-color:hsla(290, 100%, 50%, 0.1); }
