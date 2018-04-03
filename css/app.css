@@ -10,29 +10,37 @@
 
 }
 body {
-  background-color: rgb(26, 153, 155);
-  border: 15px ridge rgb(26, 113, 114);
+  background-color: rgb(157, 167, 183);
+  border: 15px ridge rgb(157, 167, 183);
 }
 h1{
+  border: 3px ridge rgb(157, 167, 183);
+  background-color:rgb(175, 187, 206);
   color: black;
   text-align: center;
-  font-family: 'Monoton', cursive;
+  font-size: 3em;
+  line-height: 1.0em;
+  font-family: 'Abril Fatface', cursive;
+  margin-top: 4%;
 }
 h2{
   color: white;
-  font-family: 'Monoton', cursive;
+  font-family: 'Abril Fatface', cursive;
 }
 h3{
   color: white;
 }
+main{
+  background-image:
+}
 img{
   margin:80px auto;
-  border: 15px ridge rgb(26, 113, 114);
+  border: 15px ridge rgb(157, 167, 183);
 }
 nav {
   width: 100%;
   margin: 10px auto;
-  background-color: rgb(26, 113, 114);
+  background-color:  rgb(138, 146, 160);
   padding: 15px;
 }
 nav ul {
@@ -43,7 +51,7 @@ nav ul {
 }
 nav li {
   display: inline;
-  font-family: 'IM Fell English SC', serif;
+  font-family:'Anton', sans-serif;
   font-size: 18px;
   margin: 30px auto;
   padding: 20px inherit;
