@@ -11,10 +11,10 @@
 }
 body {
   background-color: rgb(157, 167, 183);
-  border: 15px ridge rgb(157, 167, 183);
+  border: 30px ridge rgb(157, 167, 183);
 }
 h1{
-  border: 3px ridge rgb(157, 167, 183);
+  border: 10px ridge rgb(157, 167, 183);
   background-color:rgb(215, 219, 226);
   color: black;
   text-align: center;
@@ -33,7 +33,7 @@ h3{
 
 img{
   margin:80px auto;
-  border: 15px ridge rgb(157, 167, 183);
+  border: 25px ridge rgb(157, 167, 183);
 }
 nav {
   width: 100%;
@@ -69,10 +69,9 @@ nav li a:hover {
 nav>ul>li>a:active {
   color: gray;
 }
-footer,ul{
+footer,ul,img{
   font-family: 'Fjalla One', sans-serif;
   font-size: 1.5em;
-  line-height: 1.5em;
-  margin-top: 10%;
+  line-height: 2.0em;
 
 }
