@@ -15,7 +15,7 @@ body {
 }
 h1{
   border: 3px ridge rgb(157, 167, 183);
-  background-color:rgb(175, 187, 206);
+  background-color:rgb(215, 219, 226);
   color: black;
   text-align: center;
   font-size: 3em;
@@ -71,7 +71,8 @@ nav>ul>li>a:active {
 }
 footer,ul{
   font-family: 'Fjalla One', sans-serif;
-  font-size: 1.7em;
+  font-size: 1.5em;
   line-height: 1.5em;
   margin-top: 10%;
+
 }
